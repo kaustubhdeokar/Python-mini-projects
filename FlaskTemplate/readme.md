@@ -1,8 +1,6 @@
-### Blog using Flask and Mongo DB.
+### Flask Template
 
 > *To invoke the application use the following command. 
 ```
     python flaskblog.py
 ```
-
-*Assuming you have flask installed.
