@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+    text-align:center;
+    font-family: sans-serif;
+}
+.content{
+    margin: 0 auto;
+    width: 400px;
+}
+
+form{
+    align-self: center;
+    margin:20px;
+}
+
+table, th, td {
+    margin: 0 auto;
+    border:1px solid #aaa;
+    table-layout: fixed;
+  }
+
+  #content{
+      width: 70%;
+     
+  }
